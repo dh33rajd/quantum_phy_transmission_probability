@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  4 00:20:50 2022
-
-@author: HP
-"""
 
 import numpy as np
 import cmath
